@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="192" height="128" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="road" tilewidth="16" tileheight="16">
+  <image source="road.jpg" width="128" height="64"/>
+  <tile id="0">
+   <properties>
+    <property name="road" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="road" width="192" height="128" opacity="0.33">
+  <data encoding="base64" compression="zlib">
+   eJzt1EEOwyAMBMDk/5/utYdWAhKzhMxIPrZC3nWOAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKDN+TWws7NxYEet/XcH7Ki3/+6AXYx23x2wgzv67w54qjv7/+Y7uHtfV34vn3b6P65yX6P/IaM++j+uelcV2bwtoxb22m/GvvR/nhlZ7mBWFyu7v0sWFaq/ZU9V3cfZw3+zvmWrS3dU/3PenkO6n2/d+2rSOVVknX7PCkO7dFYVOafflR76pPOqyDn9tlX3wm/pzO7MOf2u9DAund3VrNPvWWG4Jp2f0f0VpLM0er+CdLbmWd3/AAtlBcU=
+  </data>
+ </layer>
+</map>

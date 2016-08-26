@@ -1,0 +1,88 @@
+<Solution>
+  <PropertyGroup Name="TXClient" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="font">
+          <TTF Name="fzxk.ttf" />
+          <TTF Name="tx.ttf" />
+        </Folder>
+        <Folder Name="image">
+          <Image Name="chat.png" />
+          <Image Name="HelloWorld.png" />
+          <Image Name="loginbg.jpg" />
+          <Image Name="logo_0.png" />
+          <Image Name="logo_1.png" />
+          <Image Name="logo_yj.png" />
+          <Image Name="progressbar_1.png" />
+          <Image Name="progressbar_2.png" />
+          <Image Name="startbt.png" />
+          <Image Name="startbt2.png" />
+          <Image Name="tx_ui_1.png" />
+          <Image Name="welcome.jpg" />
+        </Folder>
+        <Folder Name="images">
+          <Image Name="xq_01.jpg" />
+          <Image Name="xq_02.jpg" />
+          <Image Name="xq_03.jpg" />
+          <Image Name="xq_04.jpg" />
+          <Image Name="xq_05.jpg" />
+          <Image Name="xq_06.jpg" />
+          <Image Name="xq_07.jpg" />
+          <Image Name="xq_08.jpg" />
+          <Image Name="xq_09.jpg" />
+          <Image Name="xq_10.jpg" />
+          <Image Name="xq_11.jpg" />
+          <Image Name="xq_12.jpg" />
+          <Image Name="xq_13.jpg" />
+          <Image Name="xq_14.jpg" />
+          <Image Name="xq_15.jpg" />
+          <Image Name="xq_16.jpg" />
+          <Image Name="xq_17.jpg" />
+          <Image Name="xq_18.jpg" />
+          <Image Name="xq_19.jpg" />
+          <Image Name="xq_20.jpg" />
+          <Image Name="xq_21.jpg" />
+          <Image Name="xq_22.jpg" />
+          <Image Name="xq_23.jpg" />
+          <Image Name="xq_24.jpg" />
+          <Image Name="xq_25.jpg" />
+          <Image Name="xq_26.jpg" />
+          <Image Name="xq_27.jpg" />
+          <Image Name="xq_28.jpg" />
+          <Image Name="xq_29.jpg" />
+          <Image Name="xq_30.jpg" />
+          <Image Name="xq_31.jpg" />
+          <Image Name="xq_32.jpg" />
+          <Image Name="xq_33.jpg" />
+          <Image Name="xq_34.jpg" />
+          <Image Name="xq_35.jpg" />
+          <Image Name="xq_36.jpg" />
+          <Image Name="xq_37.jpg" />
+          <Image Name="xq_38.jpg" />
+          <Image Name="xq_39.jpg" />
+          <Image Name="xq_40.jpg" />
+          <Image Name="xq_41.jpg" />
+          <Image Name="xq_42.jpg" />
+          <Image Name="xq_43.jpg" />
+          <Image Name="xq_44.jpg" />
+          <Image Name="xq_45.jpg" />
+          <Image Name="xq_46.jpg" />
+          <Image Name="xq_47.jpg" />
+          <Image Name="xq_48.jpg" />
+        </Folder>
+        <Folder Name="scene">
+          <Project Name="LoadingLayer.csd" Type="Layer" />
+          <Project Name="LoginScene.csd" Type="Scene" />
+          <Project Name="RoleSkeleton.csd" Type="Skeleton" />
+          <Project Name="UILayer.csd" Type="Layer" />
+          <Project Name="WelcomeScene.csd" Type="Scene" />
+          <Project Name="XQLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="tmx">
+          <TmxFile Name="xq.tmx" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="192" height="128" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="road" tilewidth="16" tileheight="16">
+  <image source="road.png" width="80" height="80"/>
+  <tile id="0">
+   <properties>
+    <property name="road" value="1"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="shade" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="26" name="xq_01" tilewidth="16" tileheight="16">
+  <image source="images/xq_01.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="530" name="xq_02" tilewidth="16" tileheight="16">
+  <image source="images/xq_02.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="1034" name="xq_03" tilewidth="16" tileheight="16">
+  <image source="images/xq_03.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="1538" name="xq_04" tilewidth="16" tileheight="16">
+  <image source="images/xq_04.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="2042" name="xq_05" tilewidth="16" tileheight="16">
+  <image source="images/xq_05.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="2546" name="xq_06" tilewidth="16" tileheight="16">
+  <image source="images/xq_06.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="3050" name="xq_07" tilewidth="16" tileheight="16">
+  <image source="images/xq_07.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="3554" name="xq_08" tilewidth="16" tileheight="16">
+  <image source="images/xq_08.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="4058" name="xq_09" tilewidth="16" tileheight="16">
+  <image source="images/xq_09.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="4562" name="xq_10" tilewidth="16" tileheight="16">
+  <image source="images/xq_10.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="5066" name="xq_11" tilewidth="16" tileheight="16">
+  <image source="images/xq_11.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="5570" name="xq_12" tilewidth="16" tileheight="16">
+  <image source="images/xq_12.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="6074" name="xq_13" tilewidth="16" tileheight="16">
+  <image source="images/xq_13.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="6578" name="xq_14" tilewidth="16" tileheight="16">
+  <image source="images/xq_14.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="7082" name="xq_15" tilewidth="16" tileheight="16">
+  <image source="images/xq_15.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="7586" name="xq_16" tilewidth="16" tileheight="16">
+  <image source="images/xq_16.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="8090" name="xq_17" tilewidth="16" tileheight="16">
+  <image source="images/xq_17.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="8594" name="xq_18" tilewidth="16" tileheight="16">
+  <image source="images/xq_18.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="9098" name="xq_19" tilewidth="16" tileheight="16">
+  <image source="images/xq_19.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="9602" name="xq_20" tilewidth="16" tileheight="16">
+  <image source="images/xq_20.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="10106" name="xq_21" tilewidth="16" tileheight="16">
+  <image source="images/xq_21.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="10610" name="xq_22" tilewidth="16" tileheight="16">
+  <image source="images/xq_22.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="11114" name="xq_23" tilewidth="16" tileheight="16">
+  <image source="images/xq_23.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="11618" name="xq_24" tilewidth="16" tileheight="16">
+  <image source="images/xq_24.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="12122" name="xq_25" tilewidth="16" tileheight="16">
+  <image source="images/xq_25.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="12626" name="xq_26" tilewidth="16" tileheight="16">
+  <image source="images/xq_26.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="13130" name="xq_27" tilewidth="16" tileheight="16">
+  <image source="images/xq_27.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="13634" name="xq_28" tilewidth="16" tileheight="16">
+  <image source="images/xq_28.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="14138" name="xq_29" tilewidth="16" tileheight="16">
+  <image source="images/xq_29.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="14642" name="xq_30" tilewidth="16" tileheight="16">
+  <image source="images/xq_30.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="15146" name="xq_31" tilewidth="16" tileheight="16">
+  <image source="images/xq_31.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="15650" name="xq_32" tilewidth="16" tileheight="16">
+  <image source="images/xq_32.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="16154" name="xq_33" tilewidth="16" tileheight="16">
+  <image source="images/xq_33.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="16658" name="xq_34" tilewidth="16" tileheight="16">
+  <image source="images/xq_34.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="17162" name="xq_35" tilewidth="16" tileheight="16">
+  <image source="images/xq_35.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="17666" name="xq_36" tilewidth="16" tileheight="16">
+  <image source="images/xq_36.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="18170" name="xq_37" tilewidth="16" tileheight="16">
+  <image source="images/xq_37.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="18674" name="xq_38" tilewidth="16" tileheight="16">
+  <image source="images/xq_38.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="19178" name="xq_39" tilewidth="16" tileheight="16">
+  <image source="images/xq_39.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="19682" name="xq_40" tilewidth="16" tileheight="16">
+  <image source="images/xq_40.jpg" width="384" height="342"/>
+ </tileset>
+ <tileset firstgid="20186" name="xq_41" tilewidth="16" tileheight="16">
+  <image source="images/xq_41.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="20690" name="xq_42" tilewidth="16" tileheight="16">
+  <image source="images/xq_42.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="21194" name="xq_43" tilewidth="16" tileheight="16">
+  <image source="images/xq_43.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="21698" name="xq_44" tilewidth="16" tileheight="16">
+  <image source="images/xq_44.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="22202" name="xq_45" tilewidth="16" tileheight="16">
+  <image source="images/xq_45.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="22706" name="xq_46" tilewidth="16" tileheight="16">
+  <image source="images/xq_46.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="23210" name="xq_47" tilewidth="16" tileheight="16">
+  <image source="images/xq_47.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="23714" name="xq_48" tilewidth="16" tileheight="16">
+  <image source="images/xq_48.jpg" width="384" height="341"/>
+ </tileset>
+ <tileset firstgid="24218" name="xq" tilewidth="16" tileheight="16">
+  <image source="xq.jpg" width="3072" height="2048"/>
+ </tileset>
+ <layer name="road" width="192" height="128" opacity="0.45">
+  <data encoding="base64" compression="zlib">
+   eJzt1EEOwyAMBMDk/5/utYdWAhKzhMxIPrZC3nWOAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKDN+TWws7NxYEet/XcH7Ki3/+6AXYx23x2wgzv67w54qjv7/+Y7uHtfV34vn3b6P65yX6P/IaM++j+uelcV2bwtoxb22m/GvvR/nhlZ7mBWFyu7v0sWFaq/ZU9V3cfZw3+zvmWrS3dU/3PenkO6n2/d+2rSOVVknX7PCkO7dFYVOafflR76pPOqyDn9tlX3wm/pzO7MOf2u9DAund3VrNPvWWG4Jp2f0f0VpLM0er+CdLbmWd3/AAtlBcU=
+  </data>
+ </layer>
+</map>

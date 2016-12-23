@@ -1,5 +1,5 @@
 # TXClient
-Cocos2dx---2D RPG开发
+Cocos2dx---2D 开发
 
 #创作初衷
 源至于爱好，以对游戏编程的热诚，献给曾经的梦想。
